@@ -10,7 +10,7 @@ const COMANDOS_ESPECIALES = {
     'quien eres': '¡Hola! Soy HugBotX2, tu asistente de IA personalizado. Fui creado por Hugo Monjas para ayudarte en lo que necesites. 🤖✨',
     'como te llamas': 'Mi nombre es HugBotX2, ¡encantado de conocerte! 😊',
     'qué puedes hacer': 'Puedo ayudarte con información general, resolver dudas, conversar contigo y mucho más. ¡Pregúntame lo que quieras!',
-    'quien te creo': 'Fui desarrollado por Hugo M utilizando tecnología de vanguardia y la API de DeepSeek.',
+    'quien te creó': 'Fui desarrollado por Hugo M utilizando tecnología de vanguardia y la API de DeepSeek.',
 };
 
 function crearMensaje(texto, esUsuario) {
